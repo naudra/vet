@@ -1,0 +1,993 @@
+{
+   "html_attributions" : [],
+   "results" :
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Nowy Świat 30c, 41-706 Ruda Śląska, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 50.2556982,
+               "lng" : 18.8467383
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 50.25704787989272,
+                  "lng" : 18.84805007989272
+               },
+               "southwest" :
+               {
+                  "lat" : 50.25434822010727,
+                  "lng" : 18.84535042010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Piesełkowo",
+         "photos" :
+         [
+            {
+               "height" : 1200,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115915823718747624544\"\u003eKonrad Korolczuk\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27z855CQ_kjXYW47mlGLAcl1eRnnQL4ZbpGxmXfsfVdRCDykd2xm7eeXV5udQldtUBb3ZIF6wAV7yvFVxQYsKUVF8Z5rM5OO0b9r_-nrA02OUYW9Vg1OgDdQ3rX1yGn7PDg79N8c3FgimF9fTY-LW4Ur0tS5Jk_dpGDZsDu7UScG3l_k",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJw5RdW2LNFkcRvXEqU5il5t4",
+         "plus_code" :
+         {
+            "compound_code" : "7R4W+7J Ruda Śląska",
+            "global_code" : "9F2W7R4W+7J"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJw5RdW2LNFkcRvXEqU5il5t4",
+         "types" :
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 189
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Błonia Wilanowskie, 02-962 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.1614492,
+               "lng" : 21.0839958
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.16419015,
+                  "lng" : 21.08573897989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.16053555000001,
+                  "lng" : 21.08303932010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Psia Łąka",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111082715167159187124\"\u003eMikolaj Machowczyk\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27x-aFRjKKyAABp4nIWtZ33TPrgN8bY0gvrE8d4aIc2q1Y1ePccayTqtAZygaCQ-TgAUHnfAbklfmTQAruRmb8CU_Yoq45aFQBLYYfvqRA6NY_0D19YZBDVqpS09Awa8HFiksrOXmnQyI9CN_XdrRFkdGfql_muy5l1Q9R117CoEVB3N",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJlfacenAtGUcRGk8QNnQBSyE",
+         "plus_code" :
+         {
+            "compound_code" : "536M+HH Warszawa",
+            "global_code" : "9G43536M+HH"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJlfacenAtGUcRGk8QNnQBSyE",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Alpejska 8, 40-500 Katowice, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 50.243216,
+               "lng" : 19.0349212
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 50.24457802989272,
+                  "lng" : 19.03620082989272
+               },
+               "southwest" :
+               {
+                  "lat" : 50.24187837010727,
+                  "lng" : 19.03350117010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Kakadu",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 5712,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117117169430098460027\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wCN_P0nbu9kzS92NkSgl4GCxV7wMU2msQJIxbyai0aIClMqqQzyvoah--BYkPIkOcdpYViRYtxi8zEuMEJmFfEAQom-xkwpGluhqjPowjNq25NVZ3ZLvtmXPbqyo00rG4mD7zAWbyxoFZL3da2-2X20V02BR2wDCV_bcm2XNFUWERU",
+               "width" : 4284
+            }
+         ],
+         "place_id" : "ChIJTRsBYa7PFkcR4Ye6F-DgPjY",
+         "plus_code" :
+         {
+            "compound_code" : "62VM+7X Katowice",
+            "global_code" : "9F2X62VM+7X"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJTRsBYa7PFkcR4Ye6F-DgPjY",
+         "types" :
+         [
+            "pet_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 509
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "02-962 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.166028,
+               "lng" : 21.0819758
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.16731947989272,
+                  "lng" : 21.0853682
+               },
+               "southwest" :
+               {
+                  "lat" : 52.16461982010727,
+                  "lng" : 21.080845
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla Psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103831392331770419733\"\u003eRoman Bryś\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27xld1fnlsQAGZVi85KOdeHPvvdH5P1eKK0ZP4FMIrWBlRYOFh983uBFBrOwsbbcmlMNtBfMUbrIbJtFKpeydEqd_xq89CawpH0pck6MVIhZAmkPYi3abMctzlleYN2sHWP84gmRZJ5LdmAAKDPEuPQO1v_INYPbNoN3fsozsE6mObLc",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJTZ964kQtGUcRzgq1N3onDk8",
+         "plus_code" :
+         {
+            "compound_code" : "538J+CQ Warszawa",
+            "global_code" : "9G43538J+CQ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJTZ964kQtGUcRzgq1N3onDk8",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 173
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "03-246 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.3027555,
+               "lng" : 21.0475875
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.30412972989272,
+                  "lng" : 21.04851282989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.30143007010728,
+                  "lng" : 21.04581317010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Psi Park",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4032,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101386603851767444791\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27z802WHjhuARC4vJT_AgBl_AI4TYeQ3PFVM2cQe-jj89OOGJ1HcCEQpqMg8_bzpZTnxuXT7YCmY4pcEYi1iQDGuTilAJz3jCthUdTOmx3ca9wVpAjozfi_btRi2v8BmGn1fNWPjrHSgHnLGPh6lDTpdQUriSXtYhYktT1LSnvEltHkO",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJaSleqcjOHkcRKypHc8bsg-M",
+         "plus_code" :
+         {
+            "compound_code" : "823X+42 Warszawa",
+            "global_code" : "9G43823X+42"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJaSleqcjOHkcRKypHc8bsg-M",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 815
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Goczałkowicka, 02-980 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.1844968,
+               "lng" : 21.072542
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.18631462989273,
+                  "lng" : 21.07389292989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.18361497010729,
+                  "lng" : 21.07119327010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "PSAdyba - park dla psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 608,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111933188204603739805\"\u003eGosia\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27xrpMYLeTrhIytGTX96SH_ibOw0QFGG9y30k7IBnDgrhBJnLbVzz1RWyJNW1KWVeaZbyFlfvCfY6AuhpFeH1rJEh2TejTI0mskKTXs2TbwJQbaAPvEO5ZPyCDeIovzwDQfiX-5lX3Z_HSXSdGyiMW-FlMua3t2N7MqIPCLhTRtgy1nC",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJv9xgeYrNHkcRN8gi3vZW748",
+         "plus_code" :
+         {
+            "compound_code" : "53MF+Q2 Warszawa",
+            "global_code" : "9G4353MF+Q2"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJv9xgeYrNHkcRN8gi3vZW748",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 36
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kaspijska 5, 02-760 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.1791168,
+               "lng" : 21.0492265
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.18057812989272,
+                  "lng" : 21.05077022989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.17787847010727,
+                  "lng" : 21.04807057010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3456,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112598025236493323136\"\u003eNorbert Przybylski\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27xGY0tedDz2PgZ_OBP2kOmVaSbM5x5gg9J8B8gqJyN1gyElQu0k59_wTtP7pdx4mTD8HNJIuiFd8zzV-j76dRnllkxB25RxK6OqA8HhONAW3izaYwOzmNLsoWbV-C-0vFhXsBrsJtoxVUitFJQYAUnMYnfFoN52z5epUOyWDs17wxG1",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJLSpLDbEyGUcRA-2mBzJvInM",
+         "plus_code" :
+         {
+            "compound_code" : "52HX+JM Warszawa",
+            "global_code" : "9G4352HX+JM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJLSpLDbEyGUcRA-2mBzJvInM",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 362
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "05-077 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2688747,
+               "lng" : 21.0030309
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.27009957989272,
+                  "lng" : 21.00379462989273
+               },
+               "southwest" :
+               {
+                  "lat" : 52.26739992010727,
+                  "lng" : 21.00109497010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Plaża Żoliborz",
+         "photos" :
+         [
+            {
+               "height" : 1536,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117597505121196429113\"\u003e117597505121196429113\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27zNEI-AQqNcUvq0lX6ceRdICoiLqXG-KzP0CRLkQ9rvTGBcPIgI8EDJzs5vq1FNuCcaRZ856_odi6GJtktHPRKYeEL4eYP_ZC1p04ckxK2vBgBmrDrJQHDLCYEj2DkbQFg8COx58sCOo-uyHC_zSal0wxDG9I_zscDiS7QVhvRNv2GM",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJR53efezLHkcRbVq5OiilJAA",
+         "plus_code" :
+         {
+            "compound_code" : "7293+G6 Warszawa",
+            "global_code" : "9G437293+G6"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJR53efezLHkcRbVq5OiilJAA",
+         "types" :
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 122
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Dolina Służewiecka 9, Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.1673395,
+               "lng" : 21.0309333
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.16838357989272,
+                  "lng" : 21.03244077989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.16568392010728,
+                  "lng" : 21.02974112010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Plac zabaw dla psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3000,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108870233456030416321\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wwNUydnwuXsPnq7FeKDrCsjhJss-zu1WwhXJiKOq0KpE3uY2UFt2Y56qED5kjXw4hF7CVh15VdSl4FB0B9pH9dqQ91Aw4rGRp-en-gGB-0GiABUzk2eROP3GwgXN8BBoBiw2FdFKbUbpVi2vbegZAoQDf7OvMFdXsIqPAo7GU0DWk_",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJpeMV2L8yGUcRA0y8KV_aFGE",
+         "plus_code" :
+         {
+            "compound_code" : "528J+W9 Warszawa",
+            "global_code" : "9G43528J+W9"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJpeMV2L8yGUcRA0y8KV_aFGE",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 202
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Plaża Łomna, Łomna, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.39405190000001,
+               "lng" : 20.78663
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.4008603,
+                  "lng" : 20.8026374
+               },
+               "southwest" :
+               {
+                  "lat" : 52.3872425,
+                  "lng" : 20.7706226
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Plaża Łomna",
+         "photos" :
+         [
+            {
+               "height" : 2268,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105763659376056135404\"\u003eIwona Minić\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27ww42Llydg9VbDH8atuitmDC0BuQb5d7aglYyoxQ0ENPm_-BpRJJXNTlmTLs6gCsi6iJnF6zwamkXVQuVQ_3p5X43fj1AJhwt2B3Sq7MeusnSpF5FnxKypAunz90e0kf4y161IiQv5HGbJVTfWqKIyNPgiTMu8qWQNjbUfuLCxist3M",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJlW-Q1KWxHkcRlJpEDPHQkH8",
+         "rating" : 4.6,
+         "reference" : "ChIJlW-Q1KWxHkcRlJpEDPHQkH8",
+         "types" :
+         [
+            "natural_feature",
+            "establishment"
+         ],
+         "user_ratings_total" : 176
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "02-084 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2131242,
+               "lng" : 20.9997695
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.21507787989272,
+                  "lng" : 21.00277735
+               },
+               "southwest" :
+               {
+                  "lat" : 52.21237822010728,
+                  "lng" : 20.99816955000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Psia polana",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3000,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107531225130253515381\"\u003eKamil Cz\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27yyiNTqTas9fXfMrGJ9iEBZ74qfFkqa2SjV_p6UzXHlEfs3KxigJgJ5rurAr2ZJkYvdSX3fIvebRuRTdWxo2k-LqmeS2YbBbhtzwfRUPKYubJKYofjPJo5mypKYspMbu9_467REF4MVQKaVUi8fCqT0-58ZxNEL1W8_mmAnSmNgkYJp",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJlcRU_YXNHkcRPXkmgiEJUp8",
+         "plus_code" :
+         {
+            "compound_code" : "6X7X+6W Warszawa",
+            "global_code" : "9G426X7X+6W"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJlcRU_YXNHkcRPXkmgiEJUp8",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 21
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Michała Paca 2, 04-361 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2485551,
+               "lng" : 21.0890313
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.24991582989272,
+                  "lng" : 21.09005947989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.24721617010728,
+                  "lng" : 21.08735982010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 2078,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118405121189150395441\"\u003eJustyna Mulawa\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27ybRYxJ_6ewFXafOyQ4yfaMtNr4Vp18nSymSIv0-pJftFLdVYB_DgnqRiu75r197FESX_0c6NAAUtbI0uEYsvRSDdQoF84cYVnOA3kjFwQsmUON5d6NDE_JgSfwI4gM6B2TOLhVbC7m6KWObXesPbxOj45_pJCChO8Qvox4VsI1ZwuG",
+               "width" : 1841
+            }
+         ],
+         "place_id" : "ChIJj_p7MObNHkcRm8StB5F9v0I",
+         "plus_code" :
+         {
+            "compound_code" : "63XQ+CJ Warszawa",
+            "global_code" : "9G4363XQ+CJ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJj_p7MObNHkcRm8StB5F9v0I",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 178
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Wał Zawadowski, 02-986 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.1710061,
+               "lng" : 21.1221021
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.17236242989272,
+                  "lng" : 21.12346977989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.16966277010728,
+                  "lng" : 21.12077012010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+         "name" : "Wisła z psem",
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100298908583983476250\"\u003emarta surowiec\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27yV6DD32kkM-G6q5SwZDl5FOiQP8SBLj5bAvLxpF4jMMmqeZBZt3VJsKCYkS1ogK5wBAAZ_hsMiuBYlTt6siF-l4Y_REYHRvnhkLf2U3r1lHtw19yGEyMPPePo5UY9OEREGgdKjnX9hW7WYs6phF_KsMxMdZxHfkDpFONljcozDuynl",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJfT_5guUtGUcRYKGdBaxzYD4",
+         "plus_code" :
+         {
+            "compound_code" : "54CC+CR Warszawa",
+            "global_code" : "9G4354CC+CR"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJfT_5guUtGUcRYKGdBaxzYD4",
+         "types" :
+         [
+            "parking",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 15
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Plaża Wilanów Zawady, Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.1716283,
+               "lng" : 21.1320537
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.1727704,
+                  "lng" : 21.1372769
+               },
+               "southwest" :
+               {
+                  "lat" : 52.1656208,
+                  "lng" : 21.1300509
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Plaża Wilanów Zawady",
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116854482288541521960\"\u003eTaehoon kim\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27yRRVyRH0Dp4lw7NVU5KjT9X3MvocfMrnLIX7aKWyUaKZyA1VhthY7oefMddci3IbCBWjYOTZ0KOiAepcbW22DyrHdcAo5HopGjIyF8LoC_oOLyahMfA6LFsmEQ4YxlVWnsBen3mpQQMfvPb_AQNSvEtHRLURpo_LZPEEJqicg04fhr",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJM2eDDNUsGUcR47G4qMEk5Vg",
+         "rating" : 4.6,
+         "reference" : "ChIJM2eDDNUsGUcR47G4qMEk5Vg",
+         "types" :
+         [
+            "natural_feature",
+            "establishment"
+         ],
+         "user_ratings_total" : 760
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "00-001 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.20081039999999,
+               "lng" : 21.1078252
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.2051427,
+                  "lng" : 21.12018445
+               },
+               "southwest" :
+               {
+                  "lat" : 52.1878383,
+                  "lng" : 21.10370545
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Plaża Leśna",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113936353464335894482\"\u003eKlaudia Ruszkowska\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27yg6UMYIG0uN1AJoEEeNyXVc4HBvAjhPG9Vu2rlw8Pnwys2QpS_HJhXg8aXgonPYZ1jdsRZBjyPOtdPyTHMVKrc9clTdBr3_CfwmOcRCL41b3M6GFvMYewg4g2kldiJS7fF1gzc_0s-BGg-biRWhvX8yyGWr8_LJKfyioKRZiSyw9-D",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJQxQDQ5bTHkcR-KueSFZoF68",
+         "plus_code" :
+         {
+            "compound_code" : "6425+84 Warszawa",
+            "global_code" : "9G436425+84"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJQxQDQ5bTHkcR-KueSFZoF68",
+         "types" :
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 90
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "02-932 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.1827017,
+               "lng" : 21.0643372
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.18380532989271,
+                  "lng" : 21.06559797989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.18110567010727,
+                  "lng" : 21.06289832010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4032,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109709774823155419239\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27xuEIwiFkVL7KFacn2SYviu4YsHieFpw80mQ4gQUVLhwbUhtvTbCFmmK5-zSSWFTJCi5FznLgBtSODcyTYUvYw6sEPP7I68DXmNwFG6z2Ttrgn3fAmewTDGOkRiX2lxuElrD9i3aRTT3ihlhAC6k-GVbe6rzExV8rdcIEiqm99CdleP",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJRRRdn2EzGUcR8S5bVSC98aM",
+         "plus_code" :
+         {
+            "compound_code" : "53M7+3P Warszawa",
+            "global_code" : "9G4353M7+3P"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJRRRdn2EzGUcR8S5bVSC98aM",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 24
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "01-163 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2438199,
+               "lng" : 20.9684004
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.24515532989272,
+                  "lng" : 20.96970837989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.24245567010728,
+                  "lng" : 20.96700872010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4032,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117539110452098524119\"\u003eНаталья Дубик\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wPaWIiAN2QpkEMZVrHPQsckpo3SLsezQkqnxWKEQHem2PXP5yLKGHAjQ_AX9hXBuA-j5vgA7FFmjrMZcH-eWBLDF5BL-foWEuIk8vzKXDsgohMbFyrT19fPshYNqDuR9Q9Y9xLxljwCmRxeU5l1E_laEiY2OtBj5JK4gmB-TTVk3at",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJW4SJgFnLHkcR4R9oLUGLWGk",
+         "plus_code" :
+         {
+            "compound_code" : "6XV9+G9 Warszawa",
+            "global_code" : "9G426XV9+G9"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJW4SJgFnLHkcR4R9oLUGLWGk",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 35
+      }
+   ],
+   "status" : "OK"
+}

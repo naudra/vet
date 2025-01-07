@@ -21,18 +21,13 @@ public class SecurityConfig {
 
             http.authorizeHttpRequests(request -> request.requestMatchers("/v3/api-docs/**",
                             "/swagger-ui/**",
-                            "/swagger-ui.html/").permitAll()
+                            "/swagger-ui.html/",
+                              "/api/places").permitAll()
                     .anyRequest().authenticated())
                     .formLogin(Customizer.withDefaults())
                     .httpBasic(Customizer.withDefaults());
             return http.build();
         }
-
-    @Bean
-    public WebSecurityCustomizer webSecurityCustomizer() {
-        return (web) -> web.ignoring()
-                .requestMatchers("/swagger-ui/**", "/v3/api-docs*/**", "/swagger-ui.html");
-    }
 
         @Bean
         public UserDetailsService userDetailsService() {

@@ -1,0 +1,1228 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "AWYs27yoMo1e2bVzwuJL8aYB0wBeUYdJ1GHxbQvuJfglY18iMMWeL1Vd02OSDHhciK71QFUkSk3Fc46hwlZW4SEgNfi4PeECQAq-SvtBIbsYPacXtjEyperNzlu5BWL_GVxEYJqQNDCPZOoRL9SpvizgiVMU3jI8RM0WIcPnn218BX8Uo4nSR1ZSNTkfUJ6mTsjvpnpSTPINkjF1tea43mXnzm_wSu0PdCtFAT4pl4SDLq-76SmT2E6qKU-ZGjSh0PMTxmyxr6OesIKgsbYSKMq2LMyKSVgMnPKSudy9qV8mpEBMCEBmxv9KBiu2i9YjpPR4k7jdCW8LAQD9P3345HNbAinSA018euvgC14Z36OHNw86wLoUsJl44HdUqYvk_eD748viS4uEIHdo37OnBSaOOpsRVMDACxN8",
+   "results" :
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Aleja Wilanowska 363, 02-665 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.1792136,
+               "lng" : 21.0124066
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.18051687989271,
+                  "lng" : 21.01357627989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.17781722010727,
+                  "lng" : 21.01087662010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Maxi Zoo Warszawa obok Carrefour",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4032,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100160064202180438990\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27yk8DK3wu5icN8iAAmIGmqbXJRV_MkVYCexVGOpeP-xSy2523WDEgJUS8WkprrO9paQQl3kZNAIuawxS3zf_Pnp9sO1li0bPsdrGMbg3jJOdOBQCLzBu_MFHs5Wz3yp5vRKPcwLHsO2AMRHinoDKTmzTFjRfIQtzRQEdzgSNJbVa9RE",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJR9U30dsyGUcRcuKsSYwtRoo",
+         "plus_code" :
+         {
+            "compound_code" : "52H6+MX Warszawa",
+            "global_code" : "9G4352H6+MX"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJR9U30dsyGUcRcuKsSYwtRoo",
+         "types" :
+         [
+            "pet_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1003
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "al. Jana Pawła II 65, 01-038 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.249908,
+               "lng" : 20.9859511
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.25130252989272,
+                  "lng" : 20.98745282989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.24860287010728,
+                  "lng" : 20.98475317010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Sklep Zoologiczny Pet Family",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3456,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108578778624628056262\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wD5G3dMquW4afaNq0hl98IGex6CpnyZ00JKImjp9VD9kglHgxLgkh85k2KnVxjn7hSxnEtE5xHauTiPdUWHJEGctamtr6LXWwTIAE6zUjXQdc1GGZKQFdUdqRZgiIZA6Kj0y6WU6gamQrW3xJa1klnpvLMgaWbJc7kPH0x0tbAE4mD",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJ24yS4BfLHkcR_-6JYR0ROpo",
+         "plus_code" :
+         {
+            "compound_code" : "6XXP+X9 Warszawa",
+            "global_code" : "9G426XXP+X9"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ24yS4BfLHkcR_-6JYR0ROpo",
+         "types" :
+         [
+            "pet_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 118
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Wrzeciono 33, 01-963 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2927001,
+               "lng" : 20.9351032
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.29402012989272,
+                  "lng" : 20.93661877989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.29132047010728,
+                  "lng" : 20.93391912010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "AdEr SKLEP ZOOLOGICZNY",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3456,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113132807803632568606\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wQcw3MDwzOVgcg0DVjln8WqCuCOE_Zobew2V9V1F37FYso2AhE0H_IhefOag69AdcZTFYjcAcyImNJHFnj0xgm9xb4WTg8aIyx_ZsQF8Qrpbqu3nLk0TI2e5Ds_3NT8nnVNtN9SnA1_HGtSOIdxrx_2WyWQT4T1McbMYwu0tCepui2",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJzUJTRFLLHkcRc_c8uAVOOgk",
+         "plus_code" :
+         {
+            "compound_code" : "7WVP+32 Warszawa",
+            "global_code" : "9G427WVP+32"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJzUJTRFLLHkcRc_c8uAVOOgk",
+         "types" :
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 162
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Okocimska 3, 01-114 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.238055,
+               "lng" : 20.9414667
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.23945592989272,
+                  "lng" : 20.94294217989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.23675627010728,
+                  "lng" : 20.94024252010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Zwierzakowe Ranczo - sklep zoologiczny - Karma dla psów SFORA",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 5760,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107272508408217864553\"\u003eKamil Bogus\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27xNoe5gwoYuTJou9izylvQDV62owJ47x5VmmnsqjOoKThhFH6NieoiI0h5JuzARGXIbGzCOv7SBSGV62wUNUhSYhYNcGCAXQ2PLrDntodSFxXMmJZIRRAmOhMkns6oBZ5rVyrU_5r_Vpl91_8c8sxz16aWMFx3V26rcpTpQtgVT1BR-",
+               "width" : 4312
+            }
+         ],
+         "place_id" : "ChIJX_LlRYHMHkcR06DvujTTNOg",
+         "plus_code" :
+         {
+            "compound_code" : "6WQR+6H Warszawa",
+            "global_code" : "9G426WQR+6H"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJX_LlRYHMHkcR06DvujTTNOg",
+         "types" :
+         [
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 521
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Puławska 35, 02-508 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2077709,
+               "lng" : 21.0224028
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.20910727989273,
+                  "lng" : 21.02363852989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.20640762010729,
+                  "lng" : 21.02093887010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Cztery łapy sklep zoologiczny",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4032,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105605853048493263058\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27yPRqNOSNJFq6Wl2IQxsMwjsod9L0hvqCslvvARLJyWNCrKUy8gsIEWbcvoV3SrIzy8-_6d04l1VPPu39ACsMEbFQ1darpL0d3e2l2r2Sa7dZdZdQSopvKvpdDgXAe3Xb6zVmoERi3jaDNQ3tvnBH72TZbdDYqsGzHCitf1zn3M5JBJ",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJA_XGBADNHkcR51Ib_FOxC5g",
+         "plus_code" :
+         {
+            "compound_code" : "625C+4X Warszawa",
+            "global_code" : "9G43625C+4X"
+         },
+         "rating" : 5,
+         "reference" : "ChIJA_XGBADNHkcR51Ib_FOxC5g",
+         "types" :
+         [
+            "zoo",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 49
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Trocka 6, 03-563 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2751089,
+               "lng" : 21.057682
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.27640552989272,
+                  "lng" : 21.05898672989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.27370587010728,
+                  "lng" : 21.05628707010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Sklep Zoologiczny",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117781047883295061179\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27zmFajL-Jx_k_ABTVptamIbjvd99hrsodqQE2wq2gyuGSPUnQRCvHjoVV6ZLzPBLD6eceAP3YYeIPecNKcaSZKxFdpc1_ZAKV6go-X2FI6xWHmTJztDRQL4yufxGGDiuGTYidsncc9cVpr91MZmD5iyQQbN9L1tilb60vDtuQ-Cxn9n",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJPajxAujPHkcRqN8INx4R0kA",
+         "plus_code" :
+         {
+            "compound_code" : "73G5+23 Warszawa",
+            "global_code" : "9G4373G5+23"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJPajxAujPHkcRqN8INx4R0kA",
+         "types" :
+         [
+            "pet_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Puławska 14, 02-512 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2085328,
+               "lng" : 21.0213391
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.20989207989272,
+                  "lng" : 21.02276492989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.20719242010728,
+                  "lng" : 21.02006527010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Sklep zoologiczny BOCJA",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4032,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109023490382286033298\"\u003eMarcin Chłopaś\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wBSQpnrNpLuLrMnCOuY0CL0aG7-ae47BYJfoBr2VZHTwV3_j2eJ4ftiZf6pHZveC6PEJLx0I50i6UGly5DMoEuQ2VyiWrDX1MppkDWPsXbTV602uLAvtb81qyGvOfkMtSIqgJJkrtehCYFXMY4cVIayQqwfHDaYmTBWEUfZyhTgqwE",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJx4FXYN_MHkcRV12zA_EWtX4",
+         "plus_code" :
+         {
+            "compound_code" : "625C+CG Warszawa",
+            "global_code" : "9G43625C+CG"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJx4FXYN_MHkcRV12zA_EWtX4",
+         "types" :
+         [
+            "pet_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 220
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Osowska 84B, 04-351 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.24748630000001,
+               "lng" : 21.0950016
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.24891342989272,
+                  "lng" : 21.09627652989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.24621377010728,
+                  "lng" : 21.09357687010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Clarias",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1800,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111748669238818299479\"\u003eVlad Exact\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wOHGqdluxj6rpCS4zGYC_bj1eTXZHVVTs6sDC-xJd7n50BmrKkH3ueSKrwO68zc9xUitH1LaeSVdUrIw10bv-4Opxvwx6J-HUXqt-A5YVMS6YD05I-BOZWxuDyOZ-tOjlylxj5cq5Uq9NR2jXCZbmbvBFmEBVznkCVDuw7uKrjcVhH",
+               "width" : 3200
+            }
+         ],
+         "place_id" : "ChIJtYHm_uzNHkcRABuRKoWSvyM",
+         "plus_code" :
+         {
+            "compound_code" : "63WW+X2 Warszawa",
+            "global_code" : "9G4363WW+X2"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJtYHm_uzNHkcRABuRKoWSvyM",
+         "types" :
+         [
+            "pet_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1017
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Zygmunta Vogla 62, 02-990 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.1664502,
+               "lng" : 21.1110727
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.16781847989272,
+                  "lng" : 21.11228837989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.16511882010728,
+                  "lng" : 21.10958872010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "ZOOZOO.pl Sklep Zoologiczny Warszawa Wilanów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1167,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110887191275231186555\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27yIKlLIUENh6xo6DNjkcwjDsW3rFCo8IBEeeRK-XVMH918yDGKs1Hu_EMAdQfQlm4QQwt4ltTxLL8ckqzArH86ggVXaWZTwk7G97pk3fAP7J6-bWca2G4_aP3Kg5BDjkR-il_A9022SjDWkNVV3r5USJPKPcTBn1X0-fxsTgR_c3tBJ",
+               "width" : 1750
+            }
+         ],
+         "place_id" : "ChIJPYAVEw4tGUcRRXLazJ4BLlg",
+         "plus_code" :
+         {
+            "compound_code" : "5486+HC Warszawa",
+            "global_code" : "9G435486+HC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJPYAVEw4tGUcRRXLazJ4BLlg",
+         "types" :
+         [
+            "pet_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 65
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ostrobramska 97c, 04-118 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.235004,
+               "lng" : 21.0914463
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.23635382989272,
+                  "lng" : 21.09279612989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.23365417010728,
+                  "lng" : 21.09009647010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Maxi Zoo Warszawa Praga-Południe",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1080,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112172231783198474545\"\u003epawel krzywkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27z5NO01EldyiSDnk_1KMVi45CDGfNLW7F-UhvXNW2k4JJ67xC68AaztQ6Ql8Kf6EddaO4vHgozAjIe2XAK2KRhqpP_BnS3xe4sw8qR0_fBIGQZyQOvKt_KEAU3a3SwV9TO-kNw3q99up36e-CL8AQy3Jm8p9yBZNdrbG8aXJq7BxOuf",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJDw06saTNHkcRIuXmRo4Uz9o",
+         "plus_code" :
+         {
+            "compound_code" : "63PR+2H Warszawa",
+            "global_code" : "9G4363PR+2H"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJDw06saTNHkcRIuXmRo4Uz9o",
+         "types" :
+         [
+            "pet_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1161
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hoża 39, 00-681 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2257677,
+               "lng" : 21.0123927
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.22712362989272,
+                  "lng" : 21.01380467989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.22442397010728,
+                  "lng" : 21.01110502010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Planeta Zoo",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 640,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108773929698939727483\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27z5KSF_C9Ad_qavdRcYr74ZD_wMf8nY3Y87mtJ6crK8Ze9z4auJ0GE9r46BX1HsQ2pKIokpl59dFGpkBWi4DtYyndTfZcIaHTnyRK_ezr4oYLu-vZcRM9t2QjnDrifrt2ph-UXy0iiV5-O2zfV_0blaf96ZxmM-lSqsEMvKIf8UoiHe",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJfZKR--3MHkcR4Q6wnuy3sIA",
+         "plus_code" :
+         {
+            "compound_code" : "62G6+7X Warszawa",
+            "global_code" : "9G4362G6+7X"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJfZKR--3MHkcR4Q6wnuy3sIA",
+         "types" :
+         [
+            "pet_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 139
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "al. „Solidarności” 104, 00-140 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2370078,
+               "lng" : 20.9791731
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.23826422989272,
+                  "lng" : 20.98062807989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.23556457010728,
+                  "lng" : 20.97792842010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "ZAKŁAD KARMY sklep zoologiczny Warszawa",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4032,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106776690451672629806\"\u003eJakub Stachowiak\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27zmhD6bqiAsb-aQlYxAOOA6MUDB6rz8ddLilX-ahtTqhoEmZoWWPAotfJNkcgkNQISpZQvjAsFPdnjQb2JbCdUEYz7i8Gtnd5F16V2hA9wgKmgkPLmfDU70Ot0kMPxOaCZ7MU7EcANIAEQMJNBxTlBqFq_uFFGKEwysM3yGMPAlRAy9",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJtbYNkujNHkcRhzD9-yMxMDk",
+         "plus_code" :
+         {
+            "compound_code" : "6XPH+RM Warszawa",
+            "global_code" : "9G426XPH+RM"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJtbYNkujNHkcRhzD9-yMxMDk",
+         "types" :
+         [
+            "pet_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 53
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Górczewska 218, 01-460 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2399158,
+               "lng" : 20.906438
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.24114492989273,
+                  "lng" : 20.90764662989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.23844527010728,
+                  "lng" : 20.90494697010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Maxi Zoo Warszawa Pasaż Górczewska",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4608,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101467636805254180795\"\u003eKr O\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27ytg5f3fqi3ojr_414MxyPPiaQhPCRo8FTWXerj0m6fMFjScF74PkoVgJXFgZx4wnvjHWZglhr4kS9lAYOynU973aga5-gZFfsdhCtbTr68uz2x7z2wpJsUAMVuFdAUgGxd-lBYt1rHKqjGmO1KG_8-hlYWG4HXj7hZ8Xa5bQGDOstX",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJPUTie-HKHkcRRJjZPP1MWuA",
+         "plus_code" :
+         {
+            "compound_code" : "6WQ4+XH Warszawa",
+            "global_code" : "9G426WQ4+XH"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJPUTie-HKHkcRRJjZPP1MWuA",
+         "types" :
+         [
+            "pet_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 796
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Zygmunta Hübnera 1, 01-793 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2579669,
+               "lng" : 20.9688157
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.25936802989272,
+                  "lng" : 20.97028102989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.25666837010727,
+                  "lng" : 20.96758137010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Maxi Zoo Warszawa Żoliborz",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102493647247704533907\"\u003eRis Maris\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27ynIiJIkDx86Oll_5ACs5uPQVADO623-Zbxuz_VM8lC01lbgcKkLG7QgfhIPUlV70Pn8Z8xL9IEX071eK7WM4kPVaVlTWwo8KEcH1RrykjqJubxeG-2yD8kyrt5cEpOjgNaahrXlQgOliFJkPaHFU9_bETVQVuEdNkTrVtbW6-nMFeY",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ12Xe_tTLHkcR87jTEnYAbgU",
+         "plus_code" :
+         {
+            "compound_code" : "7X59+5G Warszawa",
+            "global_code" : "9G427X59+5G"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ12Xe_tTLHkcR87jTEnYAbgU",
+         "types" :
+         [
+            "pet_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 280
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Generała Tadeusza Bora-Komorowskiego 35, 03-982 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2254958,
+               "lng" : 21.084149
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.22690427989272,
+                  "lng" : 21.08586027989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.22420462010728,
+                  "lng" : 21.08316062010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Sklep zoologiczny Kącik Pupila",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4608,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101996337965877244420\"\u003eВадим Мажара\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wPB4-ar5izUBQ48vumXaGvv6CkQhNOyW41p0OJ1fe90NKaWrrZA3y12XHw4nQdWm76EyJi78PhaHmVOccWQsfN9K6yQBzYsSdiNlsqu-0pCz2YVymOUm52Tg19bzrjN006EcqCCfxl-_gBC18ldDnyjUDN4VY-yv6Van77ZdNz8xc",
+               "width" : 2184
+            }
+         ],
+         "place_id" : "ChIJ9-goNEnNHkcR9LMInf63v-0",
+         "plus_code" :
+         {
+            "compound_code" : "63GM+5M Warszawa",
+            "global_code" : "9G4363GM+5M"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ9-goNEnNHkcR9LMInf63v-0",
+         "types" :
+         [
+            "pet_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Grójecka 19/25, 02-021 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2211764,
+               "lng" : 20.9860015
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.22257657989272,
+                  "lng" : 20.98719797989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.21987692010727,
+                  "lng" : 20.98449832010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Agazoo Sklep zoologiczny",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3096,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112985339562023470743\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27xtSL-6XrDjJcMhMBsKLfut1PTW8sc0e-6ZV45UJOCCsD-yyWW9Xpeudn8lo41eeVQMpiEvMg-F1IMPa6tczSeHaB0u3m10SYW5FkHnWNX3b5CAvMLaH60jksmxliG9booNB5bLoN5aibXv0OXyHYgmAIlMM_nYchEXKBQ6Q0rXiFHt",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJO-ScveXNHkcR3AqO-fygr9w",
+         "plus_code" :
+         {
+            "compound_code" : "6XCP+FC Warszawa",
+            "global_code" : "9G426XCP+FC"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJO-ScveXNHkcR3AqO-fygr9w",
+         "types" :
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 23
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "plac Mirowski 1A, 00-138 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2387615,
+               "lng" : 20.9980764
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.24019077989272,
+                  "lng" : 20.9988479
+               },
+               "southwest" :
+               {
+                  "lat" : 52.23749112010728,
+                  "lng" : 20.99576190000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Dracula Sklepy Zoologiczne ®",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4160,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114855844371309794997\"\u003eSklep Zoologiczny\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27xcqPe4lqr1ebH4cl2LIGeODGK3LnEV3zSjZNakr2AfvM8sLPFKWRBBJarGhCTrSCgfP9v8DKsQOc9pOuYQJxttU-brIbfom7ux7smvElxpfw-IWHRTY-oo1QJtH_OWVd6XUlKCoxzGQnvNq6K3g9zxDcCXAyFzD_jmsGriHeXPXUGW",
+               "width" : 5824
+            }
+         ],
+         "place_id" : "ChIJaRIDDYjMHkcROU4k-T6aB58",
+         "plus_code" :
+         {
+            "compound_code" : "6XQX+G6 Warszawa",
+            "global_code" : "9G426XQX+G6"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJaRIDDYjMHkcROU4k-T6aB58",
+         "types" :
+         [
+            "pet_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 502
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Olesińska 7, 02-548 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2045754,
+               "lng" : 21.021517
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.20593577989272,
+                  "lng" : 21.02285937989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.20323612010728,
+                  "lng" : 21.02015972010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "ANIMALE Specjalistyczny Sklep Terrarystyczny",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4032,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104830603260989796324\"\u003eZbigniew\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27xI4L0CXc24GoKzZ18WyW6B8Ouvf7yeVy6_Eh3NmyDzDIxlRBoxud7scgfWvL5xqUejc5ZUAhZLn2-XEbIaysYMbb8IVDsIW7qedOESLb7Rgc7o58nXQY6cFFq11HrywVK_m5BlxlY6m0hrA92WpU8EOrDqXIWrBfxLm_zXvWgeZs09",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJVSZ0cVrNHkcRMBISX2KbL60",
+         "plus_code" :
+         {
+            "compound_code" : "623C+RJ Warszawa",
+            "global_code" : "9G43623C+RJ"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJVSZ0cVrNHkcRMBISX2KbL60",
+         "types" :
+         [
+            "pet_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 478
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "gen. Felicjana Sławoja Składkowskiego 4, 02-497 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.1883543,
+               "lng" : 20.901358
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.18984702989272,
+                  "lng" : 20.90280307989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.18714737010728,
+                  "lng" : 20.90010342010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Sklep zoologiczny Kakadu Zoo w CH Skorosze w Warszawie",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113821789634919864213\"\u003eStanislav Astafiev\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27z2JHU6gTm9Mb8PMKZ1Rm4d-f5gUVKdwpgJlB73Ap07ZOAA6KbEPypI2NShz28KrlBEZlwp4fpTzRuUsrd5wnmVFFCu3v2xW9HbVjUD8tlHN6RyDQw4izMLYlP6YHzYUoS99iqhh2rMBbGWGnoTf53JXQyBybiYtAwllDnpd9SqT3YV",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJM1a-qOs0GUcRnC4qUPBO2-w",
+         "plus_code" :
+         {
+            "compound_code" : "5WQ2+8G Warszawa",
+            "global_code" : "9G425WQ2+8G"
+         },
+         "rating" : 4,
+         "reference" : "ChIJM1a-qOs0GUcRnC4qUPBO2-w",
+         "types" :
+         [
+            "pet_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 234
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Galeria Grochów, Kobielska 23/lok. B06, 04-359 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.24624799999999,
+               "lng" : 21.0854553
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.24712767989272,
+                  "lng" : 21.08697002989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.24442802010728,
+                  "lng" : 21.08427037010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Madagaskar Sklep Zoologiczny",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3472,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106603257475874685765\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27xc417xF10_AcHDdXsFcN4ZpFhDbFoCWqFdeggR_kp8N1-vsJjWhHxYqeRRt4pjgvPUfLuEwO-XGjlxCf8vz-6I6UhVNPxGz7viID5Wx1Wqy-vdp-9TYSR9OKdR4Rpcpz7fNMrXcnQ-fzhi8n76Ro4BE2gCd1OvQBrhez2jjrzA3-yu",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJ-_-_g8DNHkcRM7_CKZa5uqE",
+         "plus_code" :
+         {
+            "compound_code" : "63WP+F5 Warszawa",
+            "global_code" : "9G4363WP+F5"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ-_-_g8DNHkcRM7_CKZa5uqE",
+         "types" :
+         [
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 81
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,1208 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "AWYs27yMAplFtfJuydPwCs-5pO2GynoN7Xo4lDnqEzt2DgKkqbYPBFGuwBR7e_pgRxo6QSCkEOUHQBWJrgxbxEgW0YspiIdQsg134Cx_iX1fLWM4t8HOi1jp-NYP5lykPR533_GsL56qVEluIUFlGIlAEnDDmuxVp669Y9rEr8NEduA-zeXPwT0s52h_VDAGBFKomN7uaNextHdPuuAI22ERi_uJmB0U3Hk_lEZQwitUKeDN4XrRz04YFF5e-Agach6aZhjXlNBNY1qBpqY21EV73RfTLWCXD57ab__ce-aaYdsDqdhKn4YjFmlPG4Hb-zS0m6bnjaEadcMzdoX_Zyq8Kqz19jWDOFLtewx-DEPH-KXYbqeITrfxOO9GhRgbOfsGfujnbGFWniRkLJUfcCQVmSM",
+   "results" :
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Żwirki i Wigury 5, 43-190 Mikołów, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 50.1690762,
+               "lng" : 18.8990729
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 50.17048222989272,
+                  "lng" : 18.90034817989272
+               },
+               "southwest" :
+               {
+                  "lat" : 50.16778257010728,
+                  "lng" : 18.89764852010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Klinika Teodorowscy - klinika weterynaryjna, lecznica dla zwierząt",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1587,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104562917392944394092\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27xZ8QsRw6SElI95A-qU1Njv-SpT0f2hAEHEwLoQGtRAsgSKF9WMO3Q9AZ4j_zlPxEVgaTv7MWiwgGAj9VaiE3xcGH_Wgb6BFJ3jTrpi5B6ygB4EJt7GInMTwHJf-55ZLLkDnLyuEv0Df2xUo8UTfQ4xoQMP70hkAEPnlFGP3XhJwa0o",
+               "width" : 2245
+            }
+         ],
+         "place_id" : "ChIJz7ddWyzKFkcR69w-uQr2Y5g",
+         "plus_code" :
+         {
+            "compound_code" : "5V9X+JJ Mikołów",
+            "global_code" : "9F2W5V9X+JJ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJz7ddWyzKFkcR69w-uQr2Y5g",
+         "types" :
+         [
+            "veterinary_care",
+            "doctor",
+            "health",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 730
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Żwirki i Wigury 5, 43-190 Mikołów, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 50.1690544,
+               "lng" : 18.8991279
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 50.17047547989272,
+                  "lng" : 18.90038327989272
+               },
+               "southwest" :
+               {
+                  "lat" : 50.16777582010728,
+                  "lng" : 18.89768362010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Weterynaryjny Bank Krwi dla psów i kotów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJz7ddWyzKFkcRJXh9eRovzNY",
+         "plus_code" :
+         {
+            "compound_code" : "5V9X+JM Mikołów",
+            "global_code" : "9F2W5V9X+JM"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJz7ddWyzKFkcRJXh9eRovzNY",
+         "types" :
+         [
+            "veterinary_care",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 17
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Powstańców 7, 43-180 Orzesze, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 50.144388,
+               "lng" : 18.770854
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 50.14566392989272,
+                  "lng" : 18.77218217989272
+               },
+               "southwest" :
+               {
+                  "lat" : 50.14296427010728,
+                  "lng" : 18.76948252010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Klinika Teodorowscy - przychodnia weterynaryjna i szpital dla zwierząt",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 5712,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100804158462100198602\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wSPnRcs0DXh0LQy13Beh6vFg2U-KTDVChkeVWhhFinmNIqmaSU5RRt0-ZnwBaYGqmUPVO1BXSFS5f2F0RH_8pykg3mV6WCyJNP5nnj1h1zpXoDvvzOfwepXBWicpCWsC-1hmHjCa7m9jM9IY7O4tutt9pdXZBfySUJgBBgO7Z5gqQ-",
+               "width" : 4284
+            }
+         ],
+         "place_id" : "ChIJd0h_vlO1FkcR8rUF8G4HH68",
+         "plus_code" :
+         {
+            "compound_code" : "4QVC+Q8 Orzesze",
+            "global_code" : "9F2W4QVC+Q8"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJd0h_vlO1FkcR8rUF8G4HH68",
+         "types" :
+         [
+            "veterinary_care",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 464
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Heroldów 6, 01-991 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.3054662,
+               "lng" : 20.9316476
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.30670442989272,
+                  "lng" : 20.93292097989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.30400477010728,
+                  "lng" : 20.93022132010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Psychodnia | Weterynarz Warszawa Bielany | Przychodnia Weterynaryjna Warszawa",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 756,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106755291743582700352\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27yUROizzPBfHiqPsvlJ2m2Usicmu-0NZUgG25IhKeA8_3K_MbFHbfir1IoR57Q0PS6s7U8uWHnq3mPokPfWRxa82GhrJRuoLFMoYqA_hhObw9V65eQ2Rh0UqrLNuw-Zv0RoVU9_-SxMyO6-0261K5q-mwpiXhghzXSLVRj0idQhHVOb",
+               "width" : 1008
+            }
+         ],
+         "place_id" : "ChIJi1JUAY3JHkcRbyDFatLSJzo",
+         "plus_code" :
+         {
+            "compound_code" : "8W4J+5M Warszawa",
+            "global_code" : "9G428W4J+5M"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJi1JUAY3JHkcRbyDFatLSJzo",
+         "types" :
+         [
+            "veterinary_care",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 385
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jurija Gagarina 5, 00-753 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2065394,
+               "lng" : 21.0456888
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.20798697989272,
+                  "lng" : 21.04700877989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.20528732010727,
+                  "lng" : 21.04430912010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "MULTIWET Klinika Weterynaryjna",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115390382768056400612\"\u003ePiotr Skawiński\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27zC_WM3UI2LTOC3KKQ4jID5q4q73cFiD3svzIraREpvVFhww2GMa3x8E8qZsYTeTe-7JGLGZYwD2iylXsNWRswsB9FmvECO_SK6N9e5qB8GI9SYXul8DOjVjiJ9nre5TpmL7BsGs-QSlkq3XEVbVj2gBTly5weXy8XH-ZUTX3l7mmBd",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJi0xMBz3NHkcRwSv5uLHRl-8",
+         "plus_code" :
+         {
+            "compound_code" : "624W+J7 Warszawa",
+            "global_code" : "9G43624W+J7"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJi0xMBz3NHkcRwSv5uLHRl-8",
+         "types" :
+         [
+            "veterinary_care",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2129
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Grzybowska 39, 00-855 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2350917,
+               "lng" : 20.9937559
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.23647172989273,
+                  "lng" : 20.99509092989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.23377207010728,
+                  "lng" : 20.99239127010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "My Vet - Przychodnia weterynaryjna warszawa",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 317,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101585928198026729213\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27yaePq1BTHO-VJWKYgc04O8HEvCuYd_6oGIkwaqe8FWliIe-C8RL3QETq0fJTCVTfdKEZYblVe28Vqh7gwrABkFFI7CWdDU27dxaXM_znHAeu4wmJfkfMSqppAuWAF1D9pfbnnCcsiW4LBO_oSTBwuY8jCAwcnpY0RdTaXNYw0ezmKS",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJO90X_IXMHkcRcWuw3x-ufSM",
+         "plus_code" :
+         {
+            "compound_code" : "6XPV+2G Warszawa",
+            "global_code" : "9G426XPV+2G"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJO90X_IXMHkcRcWuw3x-ufSM",
+         "types" :
+         [
+            "veterinary_care",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 491
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "W podwórku, Żytnia 15, 01-014 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2397627,
+               "lng" : 20.9806573
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.24124657989272,
+                  "lng" : 20.98195452989273
+               },
+               "southwest" :
+               {
+                  "lat" : 52.23854692010728,
+                  "lng" : 20.97925487010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Lecznica weterynaryjna",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4032,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108999526862622897411\"\u003eJan Szulc\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27zfki2D1ugCWEApFqQbuVU6jwCvjJfMaPEWQ-bUhksseCTsy-DiyWG-DRxzZSmtvjrI76hGz2wwnzB5kniVxVZlA7LyEPXRB4vAr3KmylwPfnk9XFPZCrWhUWs8mYnxU6JO9jltsPQeZ83FtzYjYIph47x-hy6wOW1wsVIABj_wDs28",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJk53o14HMHkcRlQp5fsYscEc",
+         "plus_code" :
+         {
+            "compound_code" : "6XQJ+W7 Warszawa",
+            "global_code" : "9G426XQJ+W7"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJk53o14HMHkcRlQp5fsYscEc",
+         "types" :
+         [
+            "veterinary_care",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 903
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Grójecka 19/25, 02-021 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2211781,
+               "lng" : 20.9863689
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.22258462989273,
+                  "lng" : 20.98764357989273
+               },
+               "southwest" :
+               {
+                  "lat" : 52.21988497010728,
+                  "lng" : 20.98494392010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Przychodnia Weterynaryjna Na Tarczyńskiej",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1536,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105407086973150705513\"\u003eElżbieta Nowakowska\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wZGOhvoCD5Ox-F10XezWUSTADjf3K_owtmwMDpq23e0eM1da4H_SQsFVR1idmFwy9hMSpxDb5WHBvO_Qi7FzbqYIi7oqf9si8jHaGvYxFbne9uuHLxp4xe36tHurMVOOEZEHtwmOvdqzgSKajNYAIuaSnmhn950yUwtU4fYgnxkGX4",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJh7ppx5fMHkcRtOCh6lskO7Y",
+         "plus_code" :
+         {
+            "compound_code" : "6XCP+FG Warszawa",
+            "global_code" : "9G426XCP+FG"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJh7ppx5fMHkcRtOCh6lskO7Y",
+         "types" :
+         [
+            "veterinary_care",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 379
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rosy Bailly 1A, 01-494 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2484946,
+               "lng" : 20.9231652
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.24980847989272,
+                  "lng" : 20.92452367989273
+               },
+               "southwest" :
+               {
+                  "lat" : 52.24710882010727,
+                  "lng" : 20.92182402010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Gabinet Weterynaryjny “Felican-Vet”",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1761,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111564243837185440015\"\u003eMarzena Zmarlak\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27xI3e0XcYWqiTcgAgg0lflpkikW2I4km3IlynnxVBA-8XDFibPC536FAMFsvcMB6JVlKBeeDtctlyl-wBd5JGnX-rCCDXpM5SXxxRUPvAVmBgUVAsGPiWRmK-F5lqZRhjuR_W6mEWu9MYrHVADjCR6QofagOtHD6JBFtHrzrlujN9Pu",
+               "width" : 1387
+            }
+         ],
+         "place_id" : "ChIJSR3-9yHLHkcR-s0g4O9egPY",
+         "plus_code" :
+         {
+            "compound_code" : "6WXF+C7 Warszawa",
+            "global_code" : "9G426WXF+C7"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJSR3-9yHLHkcR-s0g4O9egPY",
+         "types" :
+         [
+            "veterinary_care",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 119
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Popularna 29a, 02-473 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.20455210000001,
+               "lng" : 20.9221297
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.20579892989272,
+                  "lng" : 20.92342087989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.20309927010727,
+                  "lng" : 20.92072122010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Całodobowa Przychodnia Weterynaryjna",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1463,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115886017560784429119\"\u003eJulia Szeniawska\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wdzI8tiKWQ2riVDShgXz7xC9XpXApTaH4-Hg7CWHVW0aV44IYf_EBVIsEL4WdF0qfQv3f0RrO301ynW0adatX2obFhBZ6chsoMcOKLxkzaNJtjn1bfyI6KXSIFIk1QQD2C06r6ojpV5I_yBt05HdNpy2Sl2uvSt-q3oCh4KVVgz_Ra",
+               "width" : 2012
+            }
+         ],
+         "place_id" : "ChIJJ7e31rU0GUcRYr2iswM2MgY",
+         "plus_code" :
+         {
+            "compound_code" : "6W3C+RV Warszawa",
+            "global_code" : "9G426W3C+RV"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJJ7e31rU0GUcRYr2iswM2MgY",
+         "types" :
+         [
+            "veterinary_care",
+            "health",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 344
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Płocka 17/lok U5, 01-231 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2324914,
+               "lng" : 20.9655379
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.23424252989272,
+                  "lng" : 20.96650012989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.23154287010728,
+                  "lng" : 20.96380047010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Przychodnia Weterynaryjna \"PŁOCKA\"",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4032,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100030433634011337133\"\u003eKinga Czechowicz\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27xT2lnBAWpvgHMZjvtfuals1dsokxMwrteKSi8C4y-EpxDHABzVflyH4cRpICFj5Dj0yhT8-Bkp5-OEwNq1vOThMRHcJ1oWoX2iBlTpl6i5Z9EvuD9CtIUZKPVPDsyzGQ5kDzENnbx5avsMuC2DUFcjT5wurpKIn6u2NNWK0LUyhxHQ",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJeWzehGTLHkcR_Iq6Kv4FIOE",
+         "plus_code" :
+         {
+            "compound_code" : "6XJ8+X6 Warszawa",
+            "global_code" : "9G426XJ8+X6"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJeWzehGTLHkcR_Iq6Kv4FIOE",
+         "types" :
+         [
+            "veterinary_care",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 357
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Grójecka 118, 02-367 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2073379,
+               "lng" : 20.9719563
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.20869777989272,
+                  "lng" : 20.97310722989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.20599812010727,
+                  "lng" : 20.97040757010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "PW Ochockie Centrum Weterynaryjne Ginvet",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4002,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106513091680720495504\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wU9fYxofYytZZiA1Y_r1hfpFomAjHpWWYAXYdyjVLQcTEzXVEx2WhuMl6Q5xnVW_z8CfMsy6sc8MrmLRiSrE9WkNN9Ih2ktQO9ZmZ8LKa5GwvgFQuIdSKSQp1BDdK4PINL_JHOAgMY9Tm_FTh6S9lwfb2gIngsdm06Xl2Tv6KZaVII",
+               "width" : 5996
+            }
+         ],
+         "place_id" : "ChIJcaP8H67MHkcRQ2e4a9zmO10",
+         "plus_code" :
+         {
+            "compound_code" : "6X4C+WQ Warszawa",
+            "global_code" : "9G426X4C+WQ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJcaP8H67MHkcRQ2e4a9zmO10",
+         "types" :
+         [
+            "veterinary_care",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 729
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kijowska 11, 03-743 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2530867,
+               "lng" : 21.0484022
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.25433702989272,
+                  "lng" : 21.050445
+               },
+               "southwest" :
+               {
+                  "lat" : 52.25163737010728,
+                  "lng" : 21.0476262
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "VETcardia Specjalistyczna Przychodnia Weterynaryjna",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100583551253855804442\"\u003ePatryk Stefaniuk\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wDZLcQHO01IQRGRbZ2Hsx60BeDhVrka5CnsEto3jZ3tLyL7wE-x6n_CtdCS7LcsnkXR1VvQbyutu43pvq4RviVXVUSGq0wGsUdddwwULHJP-T6FLlmnb9iE3aRxSPVoBPQOp44bvurMkWMaV-C5XjGAVDUpvVK-AakQCOIvsSspYo0",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJfVVoKTbMHkcRBrTfm5O65uI",
+         "plus_code" :
+         {
+            "compound_code" : "723X+68 Warszawa",
+            "global_code" : "9G43723X+68"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJfVVoKTbMHkcRBrTfm5O65uI",
+         "types" :
+         [
+            "veterinary_care",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 798
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Puławska 403, 02-801 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.1460251,
+               "lng" : 21.0183856
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.14737377989272,
+                  "lng" : 21.01961857989273
+               },
+               "southwest" :
+               {
+                  "lat" : 52.14467412010728,
+                  "lng" : 21.01691892010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "PulsVet Przychodnia Weterynaryjna 24h - drobne ssaki, ptaki, gady (nie zajmujemy się leczeniem psów i kotów) | Grupa EDINA",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 2340,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109447093795585928775\"\u003ePaweł Burakowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27w6cwq6p-uu6L4yp9ICTpP46lQg2twyj4wFbz76IWlmD5H5w9PKgSkiVX8Mt77uC8xAGyIjGOqK6Dxiv_nvo9LRucD62TkdPJGXTF9D8YF8Y2gN-QlFlFdtU96yvL5XkK-GNDXIgQSxq6LRWDqFSYBfd9lTrkDfbu_fVAjTwfUHyFQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ0Ve2WWIyGUcRtQsxhklhCZ8",
+         "plus_code" :
+         {
+            "compound_code" : "42W9+C9 Warszawa",
+            "global_code" : "9G4342W9+C9"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ0Ve2WWIyGUcRtQsxhklhCZ8",
+         "types" :
+         [
+            "veterinary_care",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1332
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Powstańców Śląskich 101, 01-495 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2560953,
+               "lng" : 20.9175056
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.25742372989272,
+                  "lng" : 20.91890142989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.25472407010728,
+                  "lng" : 20.91620177010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Klinika Weterynaryjna Bemowo",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4608,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104417831152931477105\"\u003eTomasz Rydz\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27zBDBOMGi1453mAV7XE7W44emmYlBKhydN26x5cNw2r1VeHfQ1iGKs2f68Fawtn0ZtUR8t5d6ZFLlH7mJi6vl8mZbBiHP0R4C-P0Cv3StC4rkz1Z6Il686hX5EDvZ0U78SNzb2Hzv72dsjr07az6eLmwheFOYzQ_17diPpI4qnXiB04",
+               "width" : 2184
+            }
+         ],
+         "place_id" : "ChIJvXlmlFXKHkcRTHHDlvEkrnk",
+         "plus_code" :
+         {
+            "compound_code" : "7W48+CX Warszawa",
+            "global_code" : "9G427W48+CX"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJvXlmlFXKHkcRTHHDlvEkrnk",
+         "types" :
+         [
+            "veterinary_care",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2611
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sarmacka 9, 02-972 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.161454,
+               "lng" : 21.077737
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.16301162989272,
+                  "lng" : 21.07869697989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.16031197010727,
+                  "lng" : 21.07599732010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Animal Care Center",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1920,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109672794740736331926\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27y7dkp8AeN5eGDIjudU9pXvKiw1QHiPKZO0zc_Al_9_shabsDc5uv3C1H2rg0cqtSXdmtl3hJI2Yh_qQKr1PYx7OMAyzI7SjjPUHENirP5CZ3DX31YYn1QnqY8bnTf6DCJGzFh0eR532cfvqpfNwHgTLoquTEU7ou3CCjy1V6aPwJOV",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ-9d2GEMtGUcRzJnCYeMm3Es",
+         "plus_code" :
+         {
+            "compound_code" : "536H+H3 Warszawa",
+            "global_code" : "9G43536H+H3"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ-9d2GEMtGUcRzJnCYeMm3Es",
+         "types" :
+         [
+            "veterinary_care",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 594
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jana Kochanowskiego 23/H6, 01-864 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2680239,
+               "lng" : 20.9467545
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.26947612989272,
+                  "lng" : 20.94816812989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.26677647010728,
+                  "lng" : 20.94546847010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Przychodnia Weterynaryjna Kochanowskiego",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1536,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115634967210632003793\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wrfI75g8zO3hd-Ml1AySprTuZZ-Sh8SXAdYksIsP1CyTpoIlaawWtwn6-7KpcrPNaTFkdmbUBx11WBLz6Eh4406daqzI-l2J96zYpBpRSTWU168u1WAjgGcpKqyxd_X8WEgVFGmu7mWRJcJwvULVvM5rRP4QM54zea2r6wPHJIgTz_",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJs4mdHrfLHkcRzWXoO0juORc",
+         "plus_code" :
+         {
+            "compound_code" : "7W9W+6P Warszawa",
+            "global_code" : "9G427W9W+6P"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJs4mdHrfLHkcRzWXoO0juORc",
+         "types" :
+         [
+            "veterinary_care",
+            "doctor",
+            "health",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 307
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Taśmowa 7/Budynek A, 02-677 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.18037710000001,
+               "lng" : 20.9877788
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.18171132989272,
+                  "lng" : 20.98907777989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.17901167010727,
+                  "lng" : 20.98637812010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Veterio Klinika Weterynaryjna 24h Warszawa",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4000,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117677548369290586922\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27w5qeKAQJxX_3DWGZMHKPHr6qf4Ka0FJa0oI9n2D_i4Dj1uEgO40XKP_NBxzBCgcleRbk77SAWLTb_PRvk_ayZEyjKdV4E8IDrE9U3WQVbu8t32LdHZmkITXlMePzQwXDzTn0cLYXKPoPtc5shdjsy3Om_BIjx8W5DG66N8-s2LWa6F",
+               "width" : 2667
+            }
+         ],
+         "place_id" : "ChIJU1o_ISkzGUcRAITje_gMBO4",
+         "plus_code" :
+         {
+            "compound_code" : "5XJQ+54 Warszawa",
+            "global_code" : "9G425XJQ+54"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJU1o_ISkzGUcRAITje_gMBO4",
+         "types" :
+         [
+            "veterinary_care",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 28
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Karola Linneusza 11, 03-489 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.264878,
+               "lng" : 21.0307668
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.26616172989272,
+                  "lng" : 21.03217527989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.26346207010727,
+                  "lng" : 21.02947562010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Co w Sierści Piszczy",
+         "photos" :
+         [
+            {
+               "height" : 1200,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105950953226820646975\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27yHyzL68hBuF8XWTJDOULeEr2Q4_JC9oWVxkMZZobyftjds1iFEGRZu4KDrH_SfmIZzSM96SXGgkM69G6--alIUTzKeCl-hmwUbg8HV7rIx422KTpZD7mZodDGMzdO8gMt8VENhdrDLgLF5o2X2eWSeVjqsh7Zkt4yzdmEtTp4oecx5",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJjyArBxfMHkcR0uTsKYMAQ4I",
+         "plus_code" :
+         {
+            "compound_code" : "727J+X8 Warszawa",
+            "global_code" : "9G43727J+X8"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJjyArBxfMHkcR0uTsKYMAQ4I",
+         "types" :
+         [
+            "veterinary_care",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2231
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Alternatywy 7/lok. U8, 02-775 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.1425731,
+               "lng" : 21.0337758
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.14399672989271,
+                  "lng" : 21.03512337989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.14129707010727,
+                  "lng" : 21.03242372010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "ForestVet Przychodnia Weterynaryjna - weterynarz króliki, gryzonie i zwierzęta egzotyczne.",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1260,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110664140281335930702\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wDCu5YOUUd3aOPdLgsu2NGu952XBbMCHU3g16G2Ry-21mmHtDS__04mbAofCIXK2kWaOx7xOTYnGZtmlThKPr_1pUdidqVkZ_Mg6rHVKK50Yg92vjh6xgqQmAVVGl1t5NdTpPL3kyjvvH4RYhkDoqk-EW0GCpNmvn2dmJU7gRoE-Lm",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJ57DEJhczGUcRNb40V_2dKCE",
+         "plus_code" :
+         {
+            "compound_code" : "42VM+2G Warszawa",
+            "global_code" : "9G4342VM+2G"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ57DEJhczGUcRNb40V_2dKCE",
+         "types" :
+         [
+            "veterinary_care",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 103
+      }
+   ],
+   "status" : "OK"
+}

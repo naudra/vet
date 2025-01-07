@@ -1,0 +1,1198 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "AWYs27wP3OkhpjABUblteQOty_iKiSdz6jIYPTLeXT5VveHtAflZ80S9IDi4FdAvXDkNdDOBgGGaaOrHcN1YmuS5SqzUqI2U0nOhkB2KC42Xa6i2b5Ti89yXnZj95S9t0SmVa-1zbv-zc2Yhrq27bf57k3gcoP9nki4rFAWeXNGPlp_niMXXT9MVeG4-N2sdmDUNs7tgdqRuRbQKBI5o2lZvNuZJM6hCQIyv_K9hV5NT8PgoB54viDIK2e6B4OAIqx95tvLMECiNjI5ssSnSUEQXZLZYgURScLPqPsp4L7ieDNFcMd9exbrYRJiFF9sHtMMhxbgb8q75kFitxIXnVUNmSYnAJ_hgvnSGOg3Qi00IzjY5D1Z2MOE0w9pDGO37EpeVtMKGl2z-ee7CctTmMm3mcDgkSx6x5Q",
+   "results" :
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kaspijska 5, 02-760 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.1791168,
+               "lng" : 21.0492265
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.18057812989272,
+                  "lng" : 21.05077022989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.17787847010727,
+                  "lng" : 21.04807057010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 2976,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109323469552918505713\"\u003eKonrad Stasiowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wtLNfJoEwG9cQxFY7uKxWwFR2MGGkM6qu4B1dqCGfC4bTNs8Raf2N2CMDZK5oAlhO63j8smMjaw8oy7wz1PTD6GRTfL0W7GqbQ7ngKmIsRxjE13008kmgls0-_ARWs1a3wbhZBKaK-4ATsPiLOJA1qXhTk__Iv7wMXpv2mh9EYW4-4",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJLSpLDbEyGUcRA-2mBzJvInM",
+         "plus_code" :
+         {
+            "compound_code" : "52HX+JM Warszawa",
+            "global_code" : "9G4352HX+JM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJLSpLDbEyGUcRA-2mBzJvInM",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 362
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "03-982 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2308913,
+               "lng" : 21.0938335
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.23238972989272,
+                  "lng" : 21.09519902989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.22969007010727,
+                  "lng" : 21.09249937010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3000,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111194215926242697270\"\u003eJarosław Morawski\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27yDs_D0lP8wq6XrmddtFZkcNDKI4KtRIXQevwNWHULKLSrEQTaIAOIRp0bA9GJiyC6268maa7RSvghJNAQYGMoY_AN3WC8CdCqWOGiOwbmC4N7dQx431OmsT-snEczBIVkc0rqnB5jaerV0T1Upcanzj07doSDglFL7t1RRmtPprhRE",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ4YXU3ZrNHkcRnleiJrj7WjE",
+         "plus_code" :
+         {
+            "compound_code" : "63JV+9G Warszawa",
+            "global_code" : "9G4363JV+9G"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ4YXU3ZrNHkcRnleiJrj7WjE",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 280
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Stare Nalewki 4, 00-242 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2466124,
+               "lng" : 21.0007696
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.24802822989272,
+                  "lng" : 21.00236452989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.24532857010728,
+                  "lng" : 20.99966487010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108110962545212621395\"\u003eKarolina Reder\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wSf0qph1GSRjuDE9cI67OIH8ssmmkt81ZLKj6wNhGzZ3DyfGAKqfAmot3VVw52_T0wQ2BGjk_PnBNJuahfv8GwwbemTFdfnXe7180DQ4KA9q88R_wnLo5o7HhDnRVqG3zJ8a7c-AVdJ6AZShseKi187CMkIjtAWQx3QrzP99vX3CH6",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJk6GPFHvMHkcRvvLJ_3Rxr7E",
+         "plus_code" :
+         {
+            "compound_code" : "62W2+J8 Warszawa",
+            "global_code" : "9G4362W2+J8"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJk6GPFHvMHkcRvvLJ_3Rxr7E",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 393
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "aleja Henryka Jordana, 01-318 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2330256,
+               "lng" : 20.9029857
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.23419457989272,
+                  "lng" : 20.90450592989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.23149492010727,
+                  "lng" : 20.90180627010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3000,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109935308661018396116\"\u003eWiktor Walc\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27zx1cW8l8ItEnUkWPHsu1-mkdYYJcTJ2SwhOuGqgw05Qw7OOz6D5NriGt3fBWgbaQYIRLRTNhjjyekHZ8p5D0RThR_r_JxMFOKcXGiSGvcjbjZaVcHhmV_HYXsOWIeoKGY5bJK3EUoCdkopsopZ68HClGs4ivKWmRaSQDjJkY6dDFWv",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ88-Ho9_KHkcRUAK8Hjw2ZPs",
+         "plus_code" :
+         {
+            "compound_code" : "6WM3+65 Warszawa",
+            "global_code" : "9G426WM3+65"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ88-Ho9_KHkcRUAK8Hjw2ZPs",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 582
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "02-962 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.166028,
+               "lng" : 21.0819758
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.16731947989272,
+                  "lng" : 21.0853682
+               },
+               "southwest" :
+               {
+                  "lat" : 52.16461982010727,
+                  "lng" : 21.080845
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla Psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103831392331770419733\"\u003eRoman Bryś\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27zK2Ovtdem8WzNkgqwf3lWhC8dVMhPHkcWYOCmO0c-M7rtuBgboNCqhgU8esFDcDZCQPeeYY5kZbAQd0cgXTgAE5d7daj9hDLHxt2GskFRP6GtUyhEtUWm0w0YoYs6bdILzuLzmX7MjWY4-VwPqMxLFAlJOn1MeEHBWXlyXWPBqydCT",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJTZ964kQtGUcRzgq1N3onDk8",
+         "plus_code" :
+         {
+            "compound_code" : "538J+CQ Warszawa",
+            "global_code" : "9G43538J+CQ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJTZ964kQtGUcRzgq1N3onDk8",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 173
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pabla Nerudy 10, 01-926 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.27512710000001,
+               "lng" : 20.9272911
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.27629427989272,
+                  "lng" : 20.92829457989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.27359462010727,
+                  "lng" : 20.92559492010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów im. Miki B.",
+         "photos" :
+         [
+            {
+               "height" : 3472,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107295571778332641076\"\u003eRadosław Rutka\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27x0ZBWn_njyHpcXF9xM9CQlzibCCEh85cYcjjwji1-8EtG6GiLqneIX8oMNPvSAr6dSs5I9FTqvGPZgAy9Ezo0oHF2-LKD_XUsReqwDtvnKy-lEzJe4GvkaqI_j1YzWwaUtYhbJ6v1wZ_d1JWw-NyrJLNqB49Y8FyOchQpWCdbs3msH",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJ3xfiT0vLHkcR10HEXJXDCcw",
+         "plus_code" :
+         {
+            "compound_code" : "7WGG+3W Warszawa",
+            "global_code" : "9G427WGG+3W"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ3xfiT0vLHkcR10HEXJXDCcw",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 85
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2379849,
+               "lng" : 20.9876093
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.23923987989272,
+                  "lng" : 20.98857777989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.23654022010728,
+                  "lng" : 20.98587812010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psow",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1080,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109626366626021114052\"\u003eRafał Zych\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27w3PkJvZ0suof-rubrrOyNC2_b6ZcSBhp95y-GMOYTfpCAnwS7ThyYGL262JxZFPMOMqkWei4hgmDvmqH5Nshtg_v8tStqDp_Qlupt6bYZpPxlbdi3HQkv-4jhxFnjKDTB6r7_Q1vySfTxBMPzEb15ZyfNlZaSaw54m3ITd6f6NmyvB",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJpRtET2bNHkcRAG6fgSLpgbk",
+         "plus_code" :
+         {
+            "compound_code" : "6XQQ+52 Warszawa",
+            "global_code" : "9G426XQQ+52"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJpRtET2bNHkcRAG6fgSLpgbk",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 22
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Michała Paca 2, 04-361 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2485551,
+               "lng" : 21.0890313
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.24991582989272,
+                  "lng" : 21.09005947989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.24721617010728,
+                  "lng" : 21.08735982010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4032,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118405121189150395441\"\u003eJustyna Mulawa\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27yG4FNJHXWz4kY3xY-unAGYlJZVtbAZBXoLepVQgCNSPbR3P-kjyI76lyoKj4YUHFD62c-t_zgW-4aSmDNth8Sqv-IiUKtSQ2P_1uJ5Bs0zDjOtuQFmMgLiUDYmKyoBI2pmxPma516HSbfwgfK2Ae-6sjPeGZDmDyjCd05ZnVBeiCz9",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJj_p7MObNHkcRm8StB5F9v0I",
+         "plus_code" :
+         {
+            "compound_code" : "63XQ+CJ Warszawa",
+            "global_code" : "9G4363XQ+CJ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJj_p7MObNHkcRm8StB5F9v0I",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 178
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "ul, Sardyńska, Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.17724339999999,
+               "lng" : 21.053905
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.17889012989272,
+                  "lng" : 21.05532872989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.17619047010727,
+                  "lng" : 21.05262907010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1920,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108773884599891771180\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27xOQ23oKLR60vPaTNyDuFVFyBt_rwFP9QXAT7SxeGTUCsTQx-6nmjQFBg85iL6beinaUmJs8BC7msD6LunNHuB7GBuQxbmbEGcGEMAVwhfxN6BKssrwD7xPH16pDFCWz_VNgDLn2oetF1F4Oc1yCpnxfZNyobcT4u6Av7Fo-KTIePhd",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJy4BoshYzGUcR28EmjES8hqg",
+         "plus_code" :
+         {
+            "compound_code" : "53G3+VH Warszawa",
+            "global_code" : "9G4353G3+VH"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJy4BoshYzGUcR28EmjES8hqg",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 63
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "02-495 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.185807,
+               "lng" : 20.8917388
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.18712282989272,
+                  "lng" : 20.89292247989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.18442317010727,
+                  "lng" : 20.89022282010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1080,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106255220325136672961\"\u003eAdam Sosnowiec\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27zhI8W5MB0x9fmeaYQoNxFNzXb2P3E7ONxtOB23RTlnK4MEL9zLl1Yq6aPkP5crDHtvQyzzyH5AElpZzFLR3uIZncAK2M-VwyxCrHlgmduHA_VB08Vo82woLyUm9Y6_IJ5XLGPtoSAbtJN2gwqCKVvH0npzZrNEi4bb0CDZ4sygOLbt",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJf2t4oFo1GUcR8t9lrsfy700",
+         "plus_code" :
+         {
+            "compound_code" : "5VPR+8M Warszawa",
+            "global_code" : "9G425VPR+8M"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJf2t4oFo1GUcR8t9lrsfy700",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 32
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Unnamed Road, 03-940 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2271848,
+               "lng" : 21.0554535
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.22831692989272,
+                  "lng" : 21.05625187989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.22561727010728,
+                  "lng" : 21.05355222010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów im. Fiśka Wspaniałego",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110580822805199008316\"\u003eMaciej Skierski\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27y732gjRnqom-RjFYVXhHLOZB85_oAKQx1-MWRI_IiO0SUoaHuoDGl0WkhpbnAJqf_2adTeAqGXr3mJNNSAiWJgbpvJvLExOwe0ae6zIPicSxvjPEj-OKXvrqnrN2bCQ1BWa7eUCHFBvHH-gQvb6QfGklV7AeGGarVeLZyXaa2nX7iJ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJU3697SHNHkcRmDRa763IPzA",
+         "plus_code" :
+         {
+            "compound_code" : "63G4+V5 Warszawa",
+            "global_code" : "9G4363G4+V5"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJU3697SHNHkcRmDRa763IPzA",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 103
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.13560769999999,
+               "lng" : 21.0391321
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.13699912989272,
+                  "lng" : 21.04016097989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.13429947010727,
+                  "lng" : 21.03746132010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów",
+         "opening_hours" : {},
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107395924073044885472\"\u003eKrzysztof Rozenek\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27yOEmbP7mBQ_BdeSravcdSzumNYAeaU1Q_ZdeBi6o8nWvp0iGyQzCekTbsmLbeic_5MYIaPH_7TJLlW9mttjw64I5KSB8c2YgpZVc82bBZZq1efFJo0eTdyLSlDeOxOpnf4FhhSFbIXQmHZ1LP4LG9xYzVNBEjACE8mlGGIGuTgYBRw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJK2uQuxAtGUcRfMhwNX06G6A",
+         "plus_code" :
+         {
+            "compound_code" : "42PQ+6M Warszawa",
+            "global_code" : "9G4342PQ+6M"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJK2uQuxAtGUcRfMhwNX06G6A",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 29
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "03-756 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2593646,
+               "lng" : 21.063583
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.26075687989272,
+                  "lng" : 21.06508382989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.25805722010728,
+                  "lng" : 21.06238417010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów",
+         "opening_hours" : {},
+         "photos" :
+         [
+            {
+               "height" : 3000,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104345248198605192467\"\u003eMateusz Maciukiewicz\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wXk7fL8nfuoUK6juK7S-iYT1tpiQIxexCHdEUNPUsK_zXErRaaH7QXYXGJPKRQbosRShkK3cAGRUWCm1_ihdUIJJzLna1LRUlkSfRGced4GknTNbbE-IhSBYqyl7uhMPQsdoADuHHpJNVo5qXgUMnvsewCa3Tmg-jLpv3aTehd1hNk",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJoUMZSsrNHkcRQm2Jt9lqtkg",
+         "plus_code" :
+         {
+            "compound_code" : "7357+PC Warszawa",
+            "global_code" : "9G437357+PC"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJoUMZSsrNHkcRQm2Jt9lqtkg",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "03-246 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.3027555,
+               "lng" : 21.0475875
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.30412972989272,
+                  "lng" : 21.04851282989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.30143007010728,
+                  "lng" : 21.04581317010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Psi Park",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3000,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106173079091899729653\"\u003eDominika Węsierska\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wjEMZxjqhETehRqsucl2OGYwJnin9PcGo09njME4-LQ4LJJ_quX4hQfBTY6UUe2FyXif5nrWkPlXqmMnbwN7VFtoCT_h7RNWVpuDVsQM7Z4yrsiDuoMoY1_VEq0E8Egn9EtRT3X0NIaD-hdCHwasWTKwCr2W6bRxP9BeUEocuQGx-t",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJaSleqcjOHkcRKypHc8bsg-M",
+         "plus_code" :
+         {
+            "compound_code" : "823X+42 Warszawa",
+            "global_code" : "9G43823X+42"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJaSleqcjOHkcRKypHc8bsg-M",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 815
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Czerwona Droga, 02-495 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2008452,
+               "lng" : 20.8731343
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.20212992989271,
+                  "lng" : 20.87432587989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.19943027010727,
+                  "lng" : 20.87162622010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3000,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109626366626021114052\"\u003eRafał Zych\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wzC1Q35sjtw9X6DE6QaEpi62zNWHMGGzpdgC0QdHId4BVsg5tgKur8E34kYTCfYlp5AahGndn4GZM0N7RJq7Xpx9gnUsx70JNL6gbcKsm15hxnHpnblBMPDEpE3x9fEpqHAwGJhRZbmqKFGyupyK4L0otMa8V472u3GCZGgGcDnYt8",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJJ8uHeDU1GUcRdacC0hdGTBU",
+         "plus_code" :
+         {
+            "compound_code" : "6V2F+87 Warszawa",
+            "global_code" : "9G426V2F+87"
+         },
+         "rating" : 4,
+         "reference" : "ChIJJ8uHeDU1GUcRdacC0hdGTBU",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ryżowa, 02-484 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.1965636,
+               "lng" : 20.9143639
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.19780822989272,
+                  "lng" : 20.91623582989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.19510857010727,
+                  "lng" : 20.91353617010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104876879416381149920\"\u003eAdrian Osiński\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27ymtPYLxeDH8tMsH_9bYIOQCMv4MG-R1YId8E69dBdwuzNwKYZEJ7FKPZsb2d2zxW8lWxJH_3_8zUh6l2euI1pJyxeWuRFO8_piql4T3_K3oALVcmkDkMevNpDnRviP3c_LJFgjUG2W-CXNyh2OxDNVMF6tp1nlQTQhz34GBOLWvWed",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJObhe39w1GUcRTkag58MNiVk",
+         "plus_code" :
+         {
+            "compound_code" : "5WW7+JP Warszawa",
+            "global_code" : "9G425WW7+JP"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJObhe39w1GUcRTkag58MNiVk",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Słodowiec, 01-892 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2728346,
+               "lng" : 20.9573588
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.27432052989272,
+                  "lng" : 20.95899472989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.27162087010728,
+                  "lng" : 20.95629507010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg Dla Psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 1080,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116833619741742745235\"\u003eMichał Maciejewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27yZFpeeohS20DB-6PNZMN4J2cQ-k7se-QoxjeXYPuv6S5gzjdnG8tIuUdhFlkkOrfbVcYVGcu2JjHC-Cy8yeiMemKr7s1HGGqD3apXt9Lbi_Pa6MSLkPRIpx6l45xEpX0QDhYqw6_G8GXxvb9ixjsvHxMyD4sjiqqGTK8AMSDIx3gbA",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJVxX_EAjLHkcRhrDVAA4bqDM",
+         "plus_code" :
+         {
+            "compound_code" : "7XF4+4W Warszawa",
+            "global_code" : "9G427XF4+4W"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJVxX_EAjLHkcRhrDVAA4bqDM",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 97
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lazurowa 178, 01-474 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.2471726,
+               "lng" : 20.8984051
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.24853952989272,
+                  "lng" : 20.89949082989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.24583987010728,
+                  "lng" : 20.89679117010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Psi Park - Wybieg dla psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3000,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117393363134846915035\"\u003emalgorzata.haze\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27wz3YuLau9boBD-6bsBm8o31IBrkwqarNNixCSIMHJ_Ax8CDPWawn85yQz-ncZXc_PYti2mE7HsnQVmI5jgnGvGf1V3QsMVunPazWlj9fWTg_v1UQv9nEp0yMyVQjJdKIG8TmLbZ_zwFmbdyZfe3MEY46A2bTRLyiPqpgzl9-qBOUXf",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJf_8Vg1PLHkcRmX9L8w4-FWs",
+         "plus_code" :
+         {
+            "compound_code" : "6VWX+V9 Warszawa",
+            "global_code" : "9G426VWX+V9"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJf_8Vg1PLHkcRmX9L8w4-FWs",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 34
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Unnamed Road, 00-001 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.1962154,
+               "lng" : 20.9658864
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.19749007989272,
+                  "lng" : 20.96722357989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.19479042010727,
+                  "lng" : 20.96452392010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 3024,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109506147785614424347\"\u003eЕкатерина Решетняк\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27w0tuTD8oh8MZmqnQWHD5XRUF70SIxzcfUeQt1TSU3kpH05CjzhupM5u4SUgyu1tVXYU_TzPQw8Ix0SvwI5uECRZYyUFi4EcN5BUzJVL_sBpVYu4zPW2krv_bmppYVM8VEaqqyEfd09skCTBIkR7z9KHNp2tmFgOiRv1I7_rFehWgju",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJVxaEN1ozGUcRrtH-TyLmLzE",
+         "plus_code" :
+         {
+            "compound_code" : "5XW8+F9 Warszawa",
+            "global_code" : "9G425XW8+F9"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJVxaEN1ozGUcRrtH-TyLmLzE",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 121
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Dzieci Warszawy 22A, 02-495 Warszawa, Polska",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : 52.1914706,
+               "lng" : 20.9117215
+            },
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : 52.19270077989272,
+                  "lng" : 20.91297132989272
+               },
+               "southwest" :
+               {
+                  "lat" : 52.19000112010728,
+                  "lng" : 20.91027167010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wybieg dla psów",
+         "opening_hours" :
+         {
+            "open_now" : true
+         },
+         "photos" :
+         [
+            {
+               "height" : 4096,
+               "html_attributions" :
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108271255690770750353\"\u003eMichał Kalinowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "AWYs27z5RoBMAN7upS80WRRNEzOIwSHJe_wbiw0HcwgQoMVGayaLrjsLQpOtjiXF8GhLSy5_qT-JFGY6JryAY8rtxCh-Nja2P-8_0pS31kPxZHmLFytJoEnpk2r_O-Zx8oVcnMBYmtm19W_CHrTLo6U2wDbuXx-U5MxyF4SWTYAWJ5PHgM1j",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJT6OWHBc1GUcR4VsqwtKxkks",
+         "plus_code" :
+         {
+            "compound_code" : "5WR6+HM Warszawa",
+            "global_code" : "9G425WR6+HM"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJT6OWHBc1GUcR4VsqwtKxkks",
+         "types" :
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19
+      }
+   ],
+   "status" : "OK"
+}
