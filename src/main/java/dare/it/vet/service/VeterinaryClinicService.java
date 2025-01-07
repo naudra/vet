@@ -1,9 +1,9 @@
-package service;
+package dare.it.vet.service;
 
-import entity.VeterinaryClinic;
+import dare.it.vet.entity.VeterinaryClinic;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import repository.VeterinaryClinicRepository;
+import dare.it.vet.repository.VeterinaryClinicRepository;
 
 import java.util.List;
 

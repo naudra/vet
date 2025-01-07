@@ -1,9 +1,9 @@
-package controller;
+package dare.it.vet.controller;
 
-import entity.VeterinaryClinic;
+import dare.it.vet.entity.VeterinaryClinic;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import service.VeterinaryClinicService;
+import dare.it.vet.service.VeterinaryClinicService;
 
 import java.util.List;
 
@@ -13,6 +13,7 @@ public class VeterinaryClinicController {
 
     @Autowired
     private VeterinaryClinicService service;
+
 
     @GetMapping
     public List<VeterinaryClinic> getAllClinics() {

@@ -1,6 +1,6 @@
-package repository;
+package dare.it.vet.repository;
 
-import entity.VeterinaryClinic;
+import dare.it.vet.entity.VeterinaryClinic;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

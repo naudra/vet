@@ -1,4 +1,4 @@
-package entity;
+package dare.it.vet.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
