@@ -1,6 +1,7 @@
 package dare.it.vet.service;
 
 import dare.it.vet.entity.Place;
+import dare.it.vet.responses.PlaceResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import dare.it.vet.repository.PlaceRepository;
@@ -12,8 +13,9 @@ public class PlacesService {
     @Autowired
     private PlaceRepository repository;
 
-    public List<Place> getAllPlaces() {
-        return repository.findAll();
+    public List<PlaceResponse> getAllPlaces() {
+        List<Place> places =  repository.findAll();
+        return  places.stream().map(PlaceResponse::new).toList();
     }
 
     public Place addClinic(Place clinic) {

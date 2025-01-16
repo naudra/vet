@@ -1,14 +1,14 @@
 package dare.it.vet.entity;
 
 import jakarta.persistence.*;
-import lombok.Getter;
-import lombok.Setter;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Entity
-@Getter
-@Setter
 @Table(name = "places")
 public class Place {
+
+    public Place(){}
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -47,4 +47,107 @@ public class Place {
     @Column(name = "open_now")
     private Boolean openNow;
 
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public void setPhoneNumber(String phoneNumber) {
+        this.phoneNumber = phoneNumber;
+    }
+
+    public void setOpeningHours(String openingHours) {
+        this.openingHours = openingHours;
+    }
+
+    public void setPlaceId(String placeId) {
+        this.placeId = placeId;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setFormattedAddress(String formattedAddress) {
+        this.formattedAddress = formattedAddress;
+    }
+
+    public void setLatitude(Double latitude) {
+        this.latitude = latitude;
+    }
+
+    public void setLongitude(Double longitude) {
+        this.longitude = longitude;
+    }
+
+    public void setRating(Double rating) {
+        this.rating = rating;
+    }
+
+    public void setUserRatingsTotal(Integer userRatingsTotal) {
+        this.userRatingsTotal = userRatingsTotal;
+    }
+
+    public void setTypes(String types) {
+        this.types = types;
+    }
+
+    public void setBusinessStatus(String businessStatus) {
+        this.businessStatus = businessStatus;
+    }
+
+    public void setOpenNow(Boolean openNow) {
+        this.openNow = openNow;
+    }
+
+    public Long getId() {
+        return id;
+    }
+
+    public String getPhoneNumber() {
+        return phoneNumber;
+    }
+
+    public String getOpeningHours() {
+        return openingHours;
+    }
+
+    public String getPlaceId() {
+        return placeId;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getFormattedAddress() {
+        return formattedAddress;
+    }
+
+    public Double getLatitude() {
+        return latitude;
+    }
+
+    public Double getLongitude() {
+        return longitude;
+    }
+
+    public Double getRating() {
+        return rating;
+    }
+
+    public Integer getUserRatingsTotal() {
+        return userRatingsTotal;
+    }
+
+    public String getTypes() {
+        return types;
+    }
+
+    public String getBusinessStatus() {
+        return businessStatus;
+    }
+
+    public Boolean getOpenNow() {
+        return openNow;
+    }
 }

@@ -3,15 +3,28 @@ version: '3.8'
 services:
   postgres-db:
     image: postgres:15
-    container_name: postgres-db
+    container_name: vet-postgres-db
     ports:
       - "5432:5432"
     environment:
       POSTGRES_USER: admin
       POSTGRES_PASSWORD: admin
       POSTGRES_DB: vet_db
-    volumes:
-      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - vet_network
 
-volumes:
-  postgres_data:
+  app:
+    container_name: vet-application
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    environment:
+      - SPRING_PROFILES_ACTIVE=prod
+    networks:
+      - vet_network
+
+networks:
+  vet_network:
+    driver: bridge
